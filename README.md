@@ -8,23 +8,23 @@ To implement Opening and Closing using Python and OpenCV.
 2. OpenCV
 
 ## Algorithm:
-### Step1:
+### Step 1:
 Import the necessary packages.
 <br>
 
-### Step2:
+### Step 2:
 Create the Text using cv2.putText.
 <br>
 
-### Step3:
+### Step 3:
 Create the structuring element
 <br>
 
-### Step4:
+### Step 4:
 Use Opening operation
 <br>
 
-### Step5:
+### Step 5:
 Use Closing Operation
 <br>
 
@@ -63,5 +63,6 @@ plt.show()
 ![OUTPUT](11.jpg)
 <br>
 <br>
+
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
